@@ -1,0 +1,11 @@
+{
+    "/api": {
+      "target": {
+        "host": "melodysketchapidaanvv.azurewebsites.net",
+        "protocol": "https:"
+      },
+      "secure": false,
+      "changeOrigin": true,
+      "logLevel": "info"
+    }
+  }
